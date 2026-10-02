@@ -1,0 +1,3 @@
+M=3
+best_error=343.604584
+centers_file=centers_M3.txt

@@ -1,0 +1,3 @@
+M=7
+best_error=76.436768
+centers_file=centers_M7.txt
